@@ -51,9 +51,11 @@ Final Year Computer Science Engineering Student | Full Stack Developer | MERN St
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:balairinku21@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+<p align="left">
+  <a href="mailto:balairinku21@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
+  </a>
+</p>
 
 <a href="https://github.com/rinku-15">
 <img src="https://skillicons.dev/icons?i=github"/>
