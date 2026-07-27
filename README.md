@@ -14,7 +14,6 @@ Full Stack Developer | MERN Stack | AI Enthusiast
 
 - 🎓 Final Year CSE Student
 - 💼 Interested in Full Stack & Backend Development
-- 🌱 Learning Docker, Cloud & System Design
 - 🚀 Building scalable web applications using MERN Stack
 - 📫 **Email:** balairinku21@gmail.com
 
